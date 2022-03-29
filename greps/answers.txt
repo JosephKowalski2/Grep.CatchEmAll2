@@ -1,25 +1,64 @@
 # Part 1
-### a)
 
+Beedrill
+grep -e "bee" forest/*
+Forest: filescan_00.1
 
+Blastoise
+grep  -e "bl" forest/* 
+Forest: filescan_00.1
 
+Bulbasaur
+grep  -e "bulb" forest/* 
+Forest: filescan_00.1
 
-### b)
+Butterfree
+grep  -e "butt" forest/*
+Forest: filescan_00.1
 
+Charizard
+grep  -e "izard" forest/*
+Forest: filescan_00.2
 
+Charmander
+grep  -e "char.*ma" forest/*
+Forest: filescan_00.2
 
-### c)
+Charmeleon
+grep  -e "char.*me" forest/* 
+Forest: filescan_00.2
 
+Ivysaur
+grep  -e "ivy" forest/*
+Forest: filescan_00.3
 
+Jigglypuff
+grep  -e "jigg" forest/*
+Forest: filescan_00.3
 
+Meowth
+grep  -e "meow" forest/*
+Forest: filescan_00.3
 
+Pikachu
+grep  -e "pika" forest/*
+Forest: filescan_00.3
 
+Psyduck
+grep  -e "psy" forest/*
+Forest: filescan_00.4
 
+Squirrel
+grep  -e "squ" forest/*
+Forest: filescan_00.4
 
+Venusaur
+grep  -e "ven" forest/*
+Forest: filescan_00.4
 
-
-
-
+Wartortle
+grep  -e "war" forest/*
+Forest: filescan_00.4
 
 
 # Part 2
