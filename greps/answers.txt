@@ -63,14 +63,16 @@ Forest: filescan_00.4
 
 # Part 2
 ### a)
-
+There are 15 pokemon
+ls captured | wc -l
 
 
 
 
 
 ### b)
-
+The 3 biggest pokemon are charizard, beedrill, and pikachu
+find . -name '*.txt' | xargs wc -l
 
 
 
